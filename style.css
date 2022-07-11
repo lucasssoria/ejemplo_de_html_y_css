@@ -1,0 +1,74 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(https://img.freepik.com/foto-gratis/ingredientes-italianos-apetitosos-frescos-sabrosos-comida-viejo-fondo-madera-rustico-listo-cocinar-inicio-italiano-comida-saludable-concepto-cocina_1220-1740.jpg?w=1380&t=st=1657502751~exp=1657503351~hmac=47d3d89d6265b87fd107fd65925a6d340f8cb81150ed6e7da2c4b6829468cf7c);
+  background-repeat: repeat-y;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+.main {
+  background-color: black;
+  background-position: center;
+  font-size: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 15px;
+}
+.title {
+  text-align: center;
+  color: whitesmoke;
+  text-transform: uppercase;
+  font-size: 2.5em;
+}
+.nav {
+  background-color: black;
+  background-position: center;
+  font-size: 1.5em;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+ul li {
+  list-style: none;
+  display: inline;
+  margin-inline: 20px;
+}
+
+.box {
+  background-color: whitesmoke;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 15px;
+  border: 3px solid black;
+}
+ol li {
+  list-style: circle;
+}
+.title1 {
+  background-color: whitesmoke;
+  font-size: 2em;
+  font-style: italic;
+  text-align: center;
+  border: 3px solid black;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+h2 {
+  font-size: 1.5em;
+  text-align: center;
+}
+#imgmila {
+}
+.color1 {
+  color: red;
+}
+.color2 {
+  color: blue;
+}
