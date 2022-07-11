@@ -16,6 +16,7 @@ body {
   padding-top: 8px;
   padding-bottom: 8px;
   border-radius: 15px;
+  border: 5px groove whitesmoke;
 }
 .title {
   text-align: center;
@@ -64,7 +65,14 @@ h2 {
   font-size: 1.5em;
   text-align: center;
 }
+p {
+  font-size: 1.2em;
+}
 #imgmila {
+  display: block;
+  margin: auto;
+  width: 30%;
+  height: auto;
 }
 .color1 {
   color: red;
